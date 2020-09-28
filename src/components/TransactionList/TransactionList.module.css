@@ -1,0 +1,15 @@
+.transaction_list_wrap {
+  margin-bottom: 20px;
+}
+.transaction_list_title {
+  max-height: 30px;
+  border-bottom: 1px solid black;
+  text-align: center;
+}
+.transaction_list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  height: 300px;
+  overflow: auto;
+}

@@ -1,0 +1,12 @@
+.balance_box {
+  margin-bottom: 20px;
+}
+.balance_title {
+  text-transform: uppercase;
+  font-size: 16px;
+  height: 24px;
+}
+.balance {
+  height: 30px;
+  font-size: 24px;
+}
